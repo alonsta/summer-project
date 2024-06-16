@@ -3,7 +3,7 @@ import random
 import string
 import json
 connection_string = "**************************************************************************" \
-                    "=majority&appName=users"
+                    "************************"
 client = MongoClient(connection_string)
 db = client.summerproject
 users = db.users
