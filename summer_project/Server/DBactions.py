@@ -2,7 +2,7 @@ from pymongo import MongoClient
 import random
 import string
 import json
-connection_string = "mongodb+srv://admin:CpQXiwP1YfHbBASR@users.zaa3zwk.mongodb.net/?retryWrites=true&w" \
+connection_string = "**************************************************************************" \
                     "=majority&appName=users"
 client = MongoClient(connection_string)
 db = client.summerproject
